@@ -5,7 +5,7 @@ name: DTS IS Package Navigator Plugin
 title: DTS IS Package Navigator Plugin
 description: IS Package Navigator Plugin wrapped in a Che Plug-in
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
-url: https://github.com/BarryDrez/sag-is-navigator.theia?raw=true
+url: https://github.com/BarryDrez/sag-is-navigator/raw/master/sag_is_navigator.theia?raw=true
 publisher: Software AG
 category: Other
 firstPublicationDate: "2019-03-04"
