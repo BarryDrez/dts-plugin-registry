@@ -1,6 +1,6 @@
 id: sag-is-navigator
 version: 10.3.0.0
-type: DTS Plugin
+type: Che Plugin
 name: DTS IS Package Navigator Plugin
 title: DTS IS Package Navigator Plugin
 description: IS Package Navigator Plugin wrapped in a DTS Plug-in
