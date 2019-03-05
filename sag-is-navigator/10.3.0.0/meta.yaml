@@ -3,11 +3,10 @@ version: 10.3.0.0
 type: Che Plugin
 name: DTS IS Package Navigator Plugin
 title: DTS IS Package Navigator Plugin
-description: IS Package Navigator Plugin wrapped in a DTS Plug-in
+description: IS Package Navigator Plugin wrapped in a Che Plug-in
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 url: https://github.com/BarryDrez/sag-is-navigator/raw/master/sag_is_navigator.tar.gz
 publisher: Software AG
-repository: https://github.com/BarryDrez/sag-is-navigator/
 category: Other
 firstPublicationDate: "2019-03-04"
 
