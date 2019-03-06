@@ -3,7 +3,7 @@ version: 10.3.0.0
 type: Theia plugin
 name: DTS IS Package Navigator Plugin
 title: DTS IS Package Navigator Plugin
-description: IS Package Navigator Plugin wrapped in a Che Plug-in
+description: IS Package Navigator Plugin wrapped in a Theia Plug-in
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 url: https://github.com/BarryDrez/sag-is-navigator/blob/master/sag_is_navigator.theia?raw=true
 publisher: Software AG
